@@ -1,0 +1,20 @@
+Well done!
+
+2.
+a) -0.5
+There's no such condition as "=NULL". NULL can only be compared with "is NULL".
+
+c) -1
+You should use the other order for join: Vendor LEFT JOIN ProductVendor.
+Also, WHERE clause is not correct. In the example it's said that you should use column from ON condition (FK)
+
+3.
+b) -0.5
+Why do you need GROUP BY?
+
+c) -1
+WHERE clause is incorrect. You're just filtering by number - it doesn't have any logic.
+You should count number of sprecial offers for every product and after that write a condition for that count.
+
+
+Mark: 7
