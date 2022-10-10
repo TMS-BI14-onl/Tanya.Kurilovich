@@ -1,0 +1,16 @@
+Well done!
+
+No negative comments, great job!
+
+Test:
+
+1
+-2
+Column 'sex' and 'number of seats' are undefined. They needed to be in the inner query to be used in other queries.
+
+2
+-1
+The same with the column 'room type'.
+
+Mark: 10
+Test mark: 7
