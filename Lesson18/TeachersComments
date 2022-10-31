@@ -1,0 +1,17 @@
+Well done!
+
+1
+-0.5
+Why di we need HAVING clause if we are not using it?
+
+3
+-0.25
+No need in the subquery. To order by smth you don't need to have it in the SELECT.
+
+4
+-0.5
+Can be done without a subquery.
+
+
+
+Mark: 9
